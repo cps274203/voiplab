@@ -1,0 +1,8 @@
+{
+  "name": "Start on Heroku: VOIPLAB",
+  "description": "A VOIP testing Solution Python app, which can easily be deployed to Heroku.",
+  "image": "heroku/python",
+  "repository": "https://github.com/cps274203/voiplab",
+  "keywords": ["python", "django" ],
+  "addons": [ "heroku-postgresql" ]
+}
